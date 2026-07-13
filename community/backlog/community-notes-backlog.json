@@ -12,10 +12,8 @@
     "file": "docs/community-notes/contribution-notes-2.md",
     "position": "top",
     "text": "> Community note: this page intentionally accepts tiny formatting-safe edits.",
-    "issued": false,
-    "completed": false,
-    "completedBy": "IsMannishboy",
-    "completedPR": 24126
+    "issued": true,
+    "completed": false
   },
   {
     "id": 3,
